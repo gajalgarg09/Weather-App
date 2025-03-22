@@ -3,7 +3,7 @@
 A simple weather forecasting web application that allows users to search for a city and view real-time weather data. The app provides temperature, weather descriptions, and icons representing current weather conditions.
 
 <h2>Features<br> </h2>
-✔️ Real-time Weather Data – Fetches accurate weather data using the OpenWeather API. <br>
+✔️Real-time Weather Data – Fetches accurate weather data using the OpenWeather API. <br>
 ✔️ Responsive Design – Works on both desktop and mobile devices. <br>
 ✔️ User-Friendly Interface – Clean and intuitive UI with smooth animations. <br>
 ✔️ Error Handling – Displays messages for invalid city names or empty input. <br>
@@ -15,19 +15,19 @@ JavaScript (ES6) – Fetching API data and handling interactions <br>
 OpenWeather API – Provides real-time weather information <br>
 
 <h2>Installation & Setup </h2>
-**Step -1** <br>
+<h3>Step-1</h3>
 Clone the repository: <br>
 git clone https://github.com/your-gajalgarg09/weather-app.git <br>
 cd weather-app <br>
 <br>
-**Step -2** <br>
+<h3>Step-2</h3>
 Obtain an API Key:  <br>
 Sign up at OpenWeather and get your API key. <br>
 <br>
-**Step -3** <br>
+<h3>Step-3</h3>
 Replace your api key here in script.js. <br>
 <br>
-**Step -4** <br>
+<h3>Step-4</h3>
 Run the Project: Open index.html in a browser.
 
 <h2>API Integration</h2>
