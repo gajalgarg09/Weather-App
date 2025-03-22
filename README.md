@@ -2,7 +2,7 @@
 
 A simple weather forecasting web application that allows users to search for a city and view real-time weather data. The app provides temperature, weather descriptions, and icons representing current weather conditions.
 
-<h2>**Features** <br> </h2>
+<h2>Features<br> </h2>
 ✔️ Real-time Weather Data – Fetches accurate weather data using the OpenWeather API. <br>
 ✔️ Responsive Design – Works on both desktop and mobile devices. <br>
 ✔️ User-Friendly Interface – Clean and intuitive UI with smooth animations. <br>
