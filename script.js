@@ -4,7 +4,7 @@ async function fetchWeather() {
     const weatherDataSection = document.getElementById("weather-data");
     weatherDataSection.style.display = "block";
   
-    const apiKey = "9f1c494b3acc3c5d859a69375217d469"
+    const apiKey = "INSERT YOUR API KEY HERE"
   
     if (searchInput == "") {
       weatherDataSection.innerHTML = `
@@ -18,6 +18,7 @@ async function fetchWeather() {
   
     // Step b. Get lat and lon coordinates via Geocoding API
     async function getLonAndLat() {
+      // We can insert the country code of our choice 
       const countryCode = 91
       const geocodeURL = `https://api.openweathermap.org/geo/1.0/direct?q=${searchInput.replace(" ", "%20")},${countryCode}&limit=1&appid=${apiKey}`
   
