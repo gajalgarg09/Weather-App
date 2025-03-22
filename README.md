@@ -23,10 +23,10 @@ cd weather-app <br>
 Step -2 <br>
 Obtain an API Key:  <br>
 Sign up at OpenWeather and get your API key. <br>
-
+<br>
 Step -3 <br>
 Replace your_api_key_here in script.js.
-
+<br>
 Step -4 <br>
 Run the Project: Open index.html in a browser.
 
