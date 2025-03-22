@@ -15,19 +15,19 @@ JavaScript (ES6) – Fetching API data and handling interactions <br>
 OpenWeather API – Provides real-time weather information <br>
 
 <h2>Installation & Setup </h2>
-Step -1 <br>
+**Step -1** <br>
 Clone the repository: <br>
 git clone https://github.com/your-gajalgarg09/weather-app.git <br>
 cd weather-app <br>
 <br>
-Step -2 <br>
+**Step -2** <br>
 Obtain an API Key:  <br>
 Sign up at OpenWeather and get your API key. <br>
 <br>
-Step -3 <br>
-Replace your_api_key_here in script.js.
+**Step -3** <br>
+Replace your api key here in script.js. <br>
 <br>
-Step -4 <br>
+**Step -4** <br>
 Run the Project: Open index.html in a browser.
 
 <h2>API Integration</h2>
