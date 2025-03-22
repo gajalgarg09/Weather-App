@@ -8,14 +8,14 @@ A simple weather forecasting web application that allows users to search for a c
 ✔️ User-Friendly Interface – Clean and intuitive UI with smooth animations. <br>
 ✔️ Error Handling – Displays messages for invalid city names or empty input. <br>
 
-**Technologies Used** <br>
+<h2>Technologies Used</h2>
 HTML – Structure of the app <br>
 CSS – Styling with a modern and responsive design <br>
 JavaScript (ES6) – Fetching API data and handling interactions <br>
 OpenWeather API – Provides real-time weather information <br>
 
-**Installation & Setup** <br>
-Step -1
+<h2>Installation & Setup </h2>
+Step -1 <br>
 Clone the repository: <br>
 git clone https://github.com/your-gajalgarg09/weather-app.git <br>
 cd weather-app <br>
@@ -30,13 +30,13 @@ Replace your_api_key_here in script.js.
 Step -4 <br>
 Run the Project: Open index.html in a browser.
 
-**API Integration** ****
+<h2>API Integration</h2>
 This project uses OpenWeather’s APIs for: <br>
 Geocoding API – Converts city names into latitude and longitude.  <br>
 Current Weather API – Fetches real-time weather data based on coordinates. <br>
 
 **API Docs**: [OpenWeather API Documentation](https://www.postman.com/api-evangelist/openweathermap/documentation/muem9d9/openweathermap)
 
-
-**Screenshots**
+<h2>Screenshots</h2>
+![Weather App](images/screenshot_app.png)  
 
