@@ -19,7 +19,7 @@ Step -1 <br>
 Clone the repository: <br>
 git clone https://github.com/your-gajalgarg09/weather-app.git <br>
 cd weather-app <br>
-
+<br>
 Step -2 <br>
 Obtain an API Key:  <br>
 Sign up at OpenWeather and get your API key. <br>
@@ -37,6 +37,4 @@ Current Weather API – Fetches real-time weather data based on coordinates. <br
 
 **API Docs**: [OpenWeather API Documentation](https://www.postman.com/api-evangelist/openweathermap/documentation/muem9d9/openweathermap)
 
-<h2>Screenshots</h2>
-![Weather App](images/screenshot_app.png)  
 
